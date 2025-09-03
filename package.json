@@ -1,0 +1,16 @@
+{
+  "name": "4.5-capstone-blog",
+  "version": "1.0.0",
+  "description": "a capstone blog project using node.js and express",
+  "license": "ISC",
+  "author": "Frederick Elledge",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0"
+  }
+}
